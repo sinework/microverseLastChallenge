@@ -1,0 +1,10 @@
+#img-div{
+    background-color: burlywood;
+}
+#image {
+    display: block;
+    max-width: 90%;
+    height: auto;
+    margin: auto;
+    padding-top: 2em;
+}
